@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="YAFaQN" name="NewProject" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
-  <MAINGROUP id="Y8JQIw" name="NewProject">
+<JUCERPROJECT id="YAFaQN" name="PFMPROJECT0" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginManufacturer="Cyberaktiv" pluginManufacturerCode="CYBR"
+              pluginCode="PFM0">
+  <MAINGROUP id="Y8JQIw" name="PFMPROJECT0">
     <GROUP id="{93F6A70C-A976-6FC1-5BDA-269B8D1A50EF}" name="Source">
       <FILE id="ZX7KcH" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
